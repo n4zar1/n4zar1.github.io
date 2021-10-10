@@ -1,6 +1,6 @@
 ---
-title Mis apuntes para el eJPT
-published true
+title: Mis apuntes para el eJPT
+published: true
 ---
 
 Buenas, bienvenidos a mis apuntes en español para superar el examen eJPT. 
