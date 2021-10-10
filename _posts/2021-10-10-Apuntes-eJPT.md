@@ -7,7 +7,7 @@ Buenas, bienvenidos a mis apuntes en español para superar el examen eJPT.
 
 Estos son los apuntes que he ido desarrollando para enfrentarme al examen eJPT, aún no lo he realizado, pero la información siempre es válida.
 
-Acepto sugerencias al respecto, que podéis mandarmelo a: [mail://n4zar1@protonmail.com](n4zar1@protonmail.com)
+Acepto sugerencias al respecto, que podéis mandarmelo a: [n4zar1@protonmail.com](mail://n4zar1@protonmail.com)
 
 # [](#header-1)1. Informathion Gathering
 ## [](#header-2)1.1 Open-Source Intelligence
