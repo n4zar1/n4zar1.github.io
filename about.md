@@ -7,7 +7,7 @@ title: About
 
 Soy un pentester autodidacta y esta es mi web, aqui encontraréis mis artículos y mis writeups.
 
-Actualmente me encuentro preparando para el examen eJPT de eLearnSecurity, para posteriormente proseguir con el OCSP.
+Actualmente me encuentro preparando para el examen eJPT de eLearnSecurity, para posteriormente proseguir con el OSCP.
 
 Amo el mundillo y al ser autodidacta me encanta informarme de herramientas y vulnerabilidades mientras estas surgen.
 
